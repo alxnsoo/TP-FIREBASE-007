@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888197663766",
+    "project_id": "tp-fire-cc424",
+    "storage_bucket": "tp-fire-cc424.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888197663766:android:af721572929a15a23f3937",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKnxvgzhlTNB_FyJdH3-RFMDQqgT6moT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
